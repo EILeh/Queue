@@ -20,8 +20,6 @@
  */
 
 
-
-
 #ifndef QUEUE_HH
 #define QUEUE_HH
 
